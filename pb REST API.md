@@ -1,9 +1,7 @@
-# prakasakobhuyeya vision
-*The REST API is one of the primary access methods, allowing read-only apps to be created.
+# prakasakobhuyeya REST API
+*The REST API is one of the primary access methods, allowing read-only apps to be created.*
 
-_Note: Authorization & Session information is NOT included by this spec, 
-and can simply be appended at the end of the URL as need by servers._
-*
+*__Note: Authorization & Session information is NOT included by this spec, and can simply be appended at the end of the URL as need by servers.__*
 
 ## Basic Pattern
 {site}/{tool}/{sources}/{controls}/{inputEncoding}/{outputs}/{outputEncoding}/{inputString}
