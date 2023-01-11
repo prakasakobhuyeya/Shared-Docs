@@ -3,6 +3,8 @@
 
 *__Note: Authorization & Session information is NOT included by this spec, and can simply be appended at the end of the URL as need by servers.__*
 
+For reference see: https://github.com/Sefaria/Sefaria-Project/wiki/API-Documentation
+
 ## Basic Pattern
 {site}/{tool}/{sources}/{controls}/{inputEncoding}/{outputs}/{outputEncoding}/{inputString}
 
